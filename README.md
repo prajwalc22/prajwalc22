@@ -1,5 +1,5 @@
 ### Hi there 👋
-[Prajwal's Stats](https://github-readme-stats-alpha-three-55.vercel.app/api?username=prajwalc22&show_icons=true&theme=gruvbox)
+![Prajwal's Stats](https://github-readme-stats-alpha-three-55.vercel.app/api?username=prajwalc22&show_icons=true&theme=gruvbox)
 <!--
 **prajwalc22/prajwalc22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
