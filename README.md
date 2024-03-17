@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 📊 Stats
-![Prajwal's Stats](https://github-readme-stats-alpha-three-55.vercel.app/api?username=prajwalc22&show_icons=true&theme=chartreuse-dark)
-&PAT_1 
+![Prajwal's Stats](https://github-readme-stats-alpha-three-55.vercel.app/api?username=prajwalc22&show_icons=true&theme=chartreuse-dark&PAT_1 )
+
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
