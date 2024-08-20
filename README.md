@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 📊 Stats
-![Prajwal's Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Prajwal's Stats](https://github-readme-stats.vercel.app/api?username=prajwalchoudhari&show_icons=true&theme=transparent)
 
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
