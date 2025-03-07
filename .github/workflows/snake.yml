@@ -10,19 +10,21 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: prajwalc22
-          # these next 2 lines generate the files on a branch called "output"
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif
 
-      - name: Push changes
-        uses: crazy-max/ghaction-github-pages@v2.5.0
+      - name: Push to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
