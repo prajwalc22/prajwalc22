@@ -27,20 +27,21 @@
 
 ## 📊 GitHub Stats:
 
-<!-- GitHub Stats Cards -->
-<p>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prajwalc22&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prajwalc22&layout=compact&langs_count=8&theme=radical"/>
+<!-- GitHub Stats with Grades -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prajwalc22&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalc22&layout=compact&langs_count=8&theme=gotham"/>
 </p>
 
 <!-- GitHub Streak -->
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalc22&theme=radical" alt="prajwalc22" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalc22&theme=gotham&date_format=M%20j%5B%2C%20Y%5D" alt="prajwalc22" />
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prajwalc22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prajwalc22&theme=darkhub&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" width="100%" />
+</p>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
