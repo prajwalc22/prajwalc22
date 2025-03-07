@@ -55,8 +55,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/prajwalc22/prajwalc22/output/github-snake.svg" />
 </picture>
 
-### Colorful Version:
-![Snake animation](https://raw.githubusercontent.com/prajwalc22/prajwalc22/output/ocean.gif)
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=prajwalc22&style=flat-square&color=blue" alt=""/>
