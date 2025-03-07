@@ -15,17 +15,7 @@
 
 # 💻 Tech Stack:
 <div align="center">
-  <p align="center">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" width="100" height="30"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" width="100" height="30"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" width="100" height="30"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width="100" height="30"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="100" height="30"/>
-  </p>
+ 
 
   <p align="center">  
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
