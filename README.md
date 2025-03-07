@@ -25,10 +25,18 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prajwalc22&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=prajwalc22&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalc22&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats:
+
+<!-- GitHub Stats Cards -->
+<p>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prajwalc22&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prajwalc22&layout=compact&langs_count=8&theme=radical"/>
+</p>
+
+<!-- GitHub Streak -->
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalc22&theme=radical" alt="prajwalc22" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prajwalc22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
