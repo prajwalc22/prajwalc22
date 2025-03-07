@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Prajwal+C....;Nice+to+meet+you!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Prajwal....;Nice+to+meet+you!&center=true&size=30">
 </div>
 
 # 💫 About Me:
