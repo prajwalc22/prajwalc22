@@ -7,11 +7,11 @@
 👯 I'm looking to collaborate on innovative projects<br>
 🌱 I'm currently learning new technologies<br>
 💬 Ask me about anything tech-related<br>
-⚡ Fun fact: The first computer "bug" was an actual real-life bug
+
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwalc22) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/prajwalc22) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-choudhari-a4a2a1209/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/_prajwal_22) 
 
 # 💻 Tech Stack:
 <div align="center">
