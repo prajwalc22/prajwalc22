@@ -38,8 +38,17 @@
 
 ---
 
-## 🐍 Watch my contribution graph get eaten by the snake
-![snake gif](https://github.com/prajwalc22/prajwalc22/blob/output/github-contribution-grid-snake.svg)
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwalc22/prajwalc22/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajwalc22/prajwalc22/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/prajwalc22/prajwalc22/output/github-snake.svg" />
+</picture>
+
+### Colorful Version:
+![Snake animation](https://raw.githubusercontent.com/prajwalc22/prajwalc22/output/ocean.gif)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=prajwalc22&style=flat-square&color=blue" alt=""/>
