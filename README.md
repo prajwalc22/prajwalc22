@@ -45,8 +45,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=prajwalc22&theme=darkhub&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" width="100%" />
 </p>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 
