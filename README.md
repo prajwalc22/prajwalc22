@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 🔭 I'm currently working on improving my coding skills<br>
-👯 I'm looking to collaborate on innovative projects<br>
+ I'm looking to collaborate on innovative projects<br>
 🌱 I'm currently learning new technologies<br>
 💬 Ask me about anything tech-related<br>
 
